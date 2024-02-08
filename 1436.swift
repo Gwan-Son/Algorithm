@@ -18,3 +18,24 @@ while numbering != input {
     name += 1
 }
 print(name - 1)
+
+/*
+ let input = Int(readLine()!)! // N
+
+ var name: Int = 666
+ var numbering: Int = 0
+
+ while true {
+     if String(name).contains("666"){
+         // contains를 사용하면 시간초과 오류가 발생함.
+         numbering += 1
+     }
+     
+     if numbering == input {
+         break
+     }
+     name += 1
+ }
+
+ print(name)
+ */
