@@ -1,0 +1,14 @@
+import Foundation
+
+func solution(_ absolutes:[Int], _ signs:[Bool]) -> Int {
+    var result: Int = 0
+    
+    absolutes.enumerated().forEach{
+        if signs[$0.0]{
+            result += $0.1
+        } else {
+            result += -($0.1)
+        }
+    }
+    return result
+}
