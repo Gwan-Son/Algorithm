@@ -14,9 +14,17 @@
 | 08 |⭕|[문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)|[바로가기](/LEVEL1/solutions/12916.swift)|
 | 09 |⭕|[정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)|[바로가기](/LEVEL1/solutions/12933.swift)|
 | 10 |⭕|[정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)|[바로가기](/LEVEL1/solutions/12934.swift)|
-| 11 |❌|[하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)|[바로가기](/LEVEL1/solutions/12947.swift)|
+| 11 |⭕|[하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)|[바로가기](/LEVEL1/solutions/12947.swift)|
+| 12 |⭕|[두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)|[바로가기](/LEVEL1/solutions/12912.swift)|
+| 13 |⭕|[음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)|[바로가기](/LEVEL1/solutions/76501.swift)|
+| 14 |⭕|[음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)|[바로가기](/LEVEL1/solutions/76501.swift)|
+| 15 |⭕|[콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|[바로가기](/LEVEL1/solutions/12943.swift)|
+| 16 |⭕|[서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)|[바로가기](/LEVEL1/solutions/12919.swift)|
+| 17 |⭕|[나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)|[바로가기](/LEVEL1/solutions/12910.swift)|
+| 18 |⭕|[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)|[바로가기](/LEVEL1/solutions/86051.swift)|
+| 19 |⭕|[핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)|[바로가기](/LEVEL1/solutions/12948.swift)|
 |||||
 |||||
 |||||
 |||||
-| 00 |❌|[제목](link)|[바로가기](/LEVEL1/번호.swift)|
+| 00 |⭕❌|[제목](link)|[바로가기](/LEVEL1/번호.swift)|
