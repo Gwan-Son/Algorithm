@@ -23,6 +23,7 @@
 | 17 |⭕|[나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)|[바로가기](/LEVEL1/solutions/12910.swift)|
 | 18 |⭕|[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)|[바로가기](/LEVEL1/solutions/86051.swift)|
 | 19 |⭕|[핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)|[바로가기](/LEVEL1/solutions/12948.swift)|
+| 20 |❌|[제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)|[바로가기](/LEVEL1/solutions/12935.swift)|
 |||||
 |||||
 |||||
