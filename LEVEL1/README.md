@@ -23,7 +23,20 @@
 | 17 |⭕|[나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)|[바로가기](/LEVEL1/solutions/12910.swift)|
 | 18 |⭕|[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)|[바로가기](/LEVEL1/solutions/86051.swift)|
 | 19 |⭕|[핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)|[바로가기](/LEVEL1/solutions/12948.swift)|
-| 20 |❌|[제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)|[바로가기](/LEVEL1/solutions/12935.swift)|
+| 20 |⭕|[제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)|[바로가기](/LEVEL1/solutions/12935.swift)|
+| 21 |⭕|[내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)|[바로가기](/LEVEL1/solutions/70128.swift)|
+| 22 |⭕|[가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)|[바로가기](/LEVEL1/solutions/12903.swift)|
+| 23 |⭕|[수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|[바로가기](/LEVEL1/solutions/12922.swift)|
+| 24 |⭕|[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)|[바로가기](/LEVEL1/solutions/77884.swift)|
+| 25 |⭕|[문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)|[바로가기](/LEVEL1/solutions/12917.swift)|
+| 26 |⭕|[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)|[바로가기](/LEVEL1/solutions/82612.swift)|
+| 27 |⭕|[문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)|[바로가기](/LEVEL1/solutions/12918.swift)|
+| 28 |⭕|[행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)|[바로가기](/LEVEL1/solutions/12950.swift)|
+| 29 |⭕|[직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)|[바로가기](/LEVEL1/solutions/12969.swift)|
+| 30 |⭕|[최대공약수와 최대공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)|[바로가기](/LEVEL1/solutions/12940.swift)|
+| 31 |⭕|[3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)|[바로가기](/LEVEL1/solutions/68935.swift)|
+| 32 |⭕|[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|[바로가기](/LEVEL1/solutions/12982.swift)|
+
 |||||
 |||||
 |||||
