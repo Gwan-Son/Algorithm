@@ -36,7 +36,9 @@
 | 30 |⭕|[최대공약수와 최대공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)|[바로가기](/LEVEL1/solutions/12940.swift)|
 | 31 |⭕|[3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)|[바로가기](/LEVEL1/solutions/68935.swift)|
 | 32 |⭕|[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|[바로가기](/LEVEL1/solutions/12982.swift)|
-
+| 33 |⭕|[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)|[바로가기](/LEVEL1/solutions/12930.swift)|
+| 34 |⭕|[크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)|[바로가기](/LEVEL1/solutions/147355.swift)|
+| 34 |⭕|[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|[바로가기](/LEVEL1/solutions/131705.swift)|
 |||||
 |||||
 |||||
