@@ -39,9 +39,9 @@
 | 33 |⭕|[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)|[바로가기](/LEVEL1/solutions/12930.swift)|
 | 34 |⭕|[크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)|[바로가기](/LEVEL1/solutions/147355.swift)|
 | 35 |⭕|[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|[바로가기](/LEVEL1/solutions/131705.swift)|
-| 36 |⭕|[ㅇㅇ](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|[바로가기](/LEVEL1/solutions/12982.swift)|
-| 37 |⭕|[ㅇㅇ](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|[바로가기](/LEVEL1/solutions/12982.swift)|
-| 38 |⭕|[ㅇㅇ](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|[바로가기](/LEVEL1/solutions/12982.swift)|
+| 36 |⭕|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|[바로가기](/LEVEL1/solutions/86491.swift)|
+| 37 |⭕|[시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)|[바로가기](/LEVEL1/solutions/12926.swift)|
+| 38 |⭕|[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)|[바로가기](/LEVEL1/solutions/142086.swift)|
 | 39 |⭕|[ㅇㅇ](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|[바로가기](/LEVEL1/solutions/12982.swift)|
 | 40 |⭕|[ㅇㅇ](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|[바로가기](/LEVEL1/solutions/12982.swift)|
 |||||
