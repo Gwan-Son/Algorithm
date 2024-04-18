@@ -43,7 +43,7 @@
 | 37 |⭕|[시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)|[바로가기](/LEVEL1/solutions/12926.swift)|
 | 38 |⭕|[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)|[바로가기](/LEVEL1/solutions/142086.swift)|
 | 39 |⭕|[문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)|[바로가기](/LEVEL1/solutions/12915.swift)|
-| 40 |⭕|[ㅇㅇ](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|[바로가기](/LEVEL1/solutions/12982.swift)|
+| 40 |⭕|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|[바로가기](/LEVEL1/solutions/42748.swift)|
 |||||
 |||||
 |||||
