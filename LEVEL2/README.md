@@ -10,4 +10,5 @@
 | 04 |⭕|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[바로가기](/LEVEL1/solutions/12909.swift)|
 | 05 |⭕|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|[바로가기](/LEVEL1/solutions/12911.swift)|
 | 06 |⭕|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|[바로가기](/LEVEL1/solutions/70129.swift)|
+| 07 |⭕|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|[바로가기](/LEVEL1/solutions/12973.swift)|
 
