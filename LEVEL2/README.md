@@ -12,4 +12,4 @@
 | 06 |⭕|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|[바로가기](/LEVEL1/solutions/70129.swift)|
 | 07 |⭕|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|[바로가기](/LEVEL1/solutions/12973.swift)|
 | 08 |⭕|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|[바로가기](/LEVEL1/solutions/42842.swift)|
-
+| 09 |⭕|[점프와 순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|[바로가기](/LEVEL1/solutions/12980.swift)|
