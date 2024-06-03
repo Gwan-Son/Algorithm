@@ -13,3 +13,4 @@
 | 07 |⭕|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|[바로가기](/LEVEL1/solutions/12973.swift)|
 | 08 |⭕|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|[바로가기](/LEVEL1/solutions/42842.swift)|
 | 09 |⭕|[점프와 순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|[바로가기](/LEVEL1/solutions/12980.swift)|
+| 10 |⭕|[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)|[바로가기](/LEVEL1/solutions/12953.swift)|
