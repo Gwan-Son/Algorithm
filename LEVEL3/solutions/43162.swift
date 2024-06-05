@@ -23,3 +23,6 @@ func dfs(_ graph: [[Int]], _ visited: inout [Bool], _ index: Int) {
         }
     }
 }
+
+// DFS 깊이 우선 탐색은 스택 또는 재귀로 구현 가능하다.
+// BFS 너비 우선 탐색은 큐를 통해 구현 가능하다.
