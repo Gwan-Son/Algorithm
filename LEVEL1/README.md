@@ -45,6 +45,7 @@
 | 39 |⭕|[문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)|[바로가기](/LEVEL1/solutions/12915.swift)|
 | 40 |⭕|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|[바로가기](/LEVEL1/solutions/42748.swift)|
 | 41 |⭕|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)|[바로가기](/LEVEL1/solutions/81301.swift)|
+| 42 |⭕|[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)|[바로가기](/LEVEL1/solutions/68644.swift)|
 |||||
 |||||
 |||||
