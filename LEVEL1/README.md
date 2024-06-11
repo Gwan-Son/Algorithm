@@ -46,6 +46,7 @@
 | 40 |⭕|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|[바로가기](/LEVEL1/solutions/42748.swift)|
 | 41 |⭕|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)|[바로가기](/LEVEL1/solutions/81301.swift)|
 | 42 |⭕|[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)|[바로가기](/LEVEL1/solutions/68644.swift)|
+| 43 |⭕|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|[바로가기](/LEVEL1/solutions/134240.swift)|
 |||||
 |||||
 |||||
