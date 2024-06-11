@@ -48,6 +48,7 @@
 | 42 |⭕|[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)|[바로가기](/LEVEL1/solutions/68644.swift)|
 | 43 |⭕|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|[바로가기](/LEVEL1/solutions/134240.swift)|
 | 44 |⭕|[1차 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)|[바로가기](/LEVEL1/solutions/17681.swift)|
+| 45 |⭕|[콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)|[바로가기](/LEVEL1/solutions/132267.swift)|
 |||||
 |||||
 |||||
