@@ -50,6 +50,7 @@
 | 44 |⭕|[1차 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)|[바로가기](/LEVEL1/solutions/17681.swift)|
 | 45 |⭕|[콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)|[바로가기](/LEVEL1/solutions/132267.swift)|
 | 46 |⭕|[명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)|[바로가기](/LEVEL1/solutions/138477.swift)|
+| 47 |⭕|[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)|[바로가기](/LEVEL1/solutions/176963.swift)|
 |||||
 |||||
 |||||
