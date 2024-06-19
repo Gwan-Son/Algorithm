@@ -19,3 +19,4 @@
 | 13 |⭕|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[바로가기](/LEVEL2/solutions/12981.swift)|
 | 14 |⭕|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|[바로가기](/LEVEL2/solutions/43165.swift)|
 | 15 |⭕|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|[바로가기](/LEVEL2/solutions/138476.swift)|
+| 16 |⭕|[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)|[바로가기](/LEVEL2/solutions/87390.swift)|
