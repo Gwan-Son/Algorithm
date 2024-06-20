@@ -52,6 +52,7 @@
 | 46 |⭕|[명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)|[바로가기](/LEVEL1/solutions/138477.swift)|
 | 47 |⭕|[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)|[바로가기](/LEVEL1/solutions/176963.swift)|
 | 48 |⭕|[카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)|[바로가기](/LEVEL1/solutions/159994.swift)|
+| 49 |⭕|[2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)|[바로가기](/LEVEL1/solutions/12901.swift)|
 |||||
 |||||
 |||||
