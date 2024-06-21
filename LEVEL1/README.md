@@ -55,6 +55,7 @@
 | 49 |⭕|[2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)|[바로가기](/LEVEL1/solutions/12901.swift)|
 | 50 |⭕|[기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)|[바로가기](/LEVEL1/solutions/136798.swift)|
 | 51 |⭕|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|[바로가기](/LEVEL1/solutions/42840.swift)|
+| 52 |⭕|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)|[바로가기](/LEVEL1/solutions/12921.swift)|
 |||||
 |||||
 |||||
