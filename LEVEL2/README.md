@@ -20,3 +20,4 @@
 | 14 |⭕|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|[바로가기](/LEVEL2/solutions/43165.swift)|
 | 15 |⭕|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|[바로가기](/LEVEL2/solutions/138476.swift)|
 | 16 |⭕|[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)|[바로가기](/LEVEL2/solutions/87390.swift)|
+| 17 |⭕|[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|[바로가기](/LEVEL2/solutions/42747.swift)|
