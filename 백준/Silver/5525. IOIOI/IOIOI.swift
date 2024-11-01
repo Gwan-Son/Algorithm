@@ -2,25 +2,24 @@ import Foundation
 
 let n = Int(readLine()!)!
 let m = Int(readLine()!)!
-let S = readLine()!
+let S = Array(readLine()!)
 
-var ioi = ""
+var i = 0
 var count = 0
+var answer = 0
 
-for i in 0..<(2 * n + 1) {
-    if i % 2 == 0 {
-        ioi += "I"
-    } else {
-        ioi += "O"
-    }
-}
-
-for i in 0...(m - (2 * n + 1)) {
-    let first = S.index(S.startIndex, offsetBy: i)
-    let end = S.index(S.startIndex, offsetBy: 2*n + i)
-    if S[first...end] == ioi {
+while i < m - 2 {
+    if String(S[i...i+2]) == "IOI" {
         count += 1
+        i += 2
+        if count == n {
+            count -= 1
+            answer += 1
+        }
+    } else {
+        i += 1
+        count = 0
     }
 }
 
-print(count)
+print(answer)
