@@ -1,12 +1,25 @@
-let n = Int(readLine()!)!
+import Foundation
 
-var result = 0
-
-for i in 1...n {
-    let temp = String(i).map{ String($0) }
-    if temp.contains("3") || temp.contains("6") || temp.contains("9") {
-        result += 1
+func solution() {
+    guard let input = readLine(), let n = Int(input) else { return }
+    
+    var totalClaps = 0
+    
+    for i in 1...n {
+        var currentNum = i
+        
+        while currentNum > 0 {
+            let digit = currentNum % 10
+            
+            if digit == 3 || digit == 6 || digit == 9 {
+                totalClaps += 1
+            }
+            
+            currentNum /= 10
+        }
     }
+    
+    print(totalClaps)
 }
 
-print(result)
+solution()
