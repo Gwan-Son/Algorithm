@@ -1,6 +1,6 @@
 import Foundation
 
-let str = readLine()!.split(separator: " ").map{ String($0) }
+let str = readLine()!.lowercased()
 
 let digital_humanities = ["social", "history", "language", "literacy"]
 let public_bigdata = ["bigdata", "public", "society"]
